@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use both the RowClick and RowDoubleClick events.
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543748/)**
-<!-- run online end -->
 
 This example demonstrates how to handle the grid's client-side RowClick and RowDblClick events to perform custom operations on single and double row clicks.
 
