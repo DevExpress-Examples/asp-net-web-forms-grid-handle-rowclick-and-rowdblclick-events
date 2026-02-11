@@ -68,7 +68,7 @@ Follow the steps below:
 * [RowClick](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.RowClick)
 * [RowDblClick](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.RowDblClick)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-handle-rowclick-and-rowdblclick-events&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-handle-rowclick-and-rowdblclick-events&~~~was_helpful=no)
 
